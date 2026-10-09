@@ -1,6 +1,7 @@
 **🌾 Smart Agriculture Analytics**
 
 Tools: Python | Power BI
+
 Project Date: September 2026
 
 **📌 Project Overview**
@@ -26,6 +27,7 @@ Pandas: Data manipulation and analysis.
 Matplotlib / Seaborn: Data visualization (if used in the project).
 
 **📊 Key Analysis**
+
 **1. Crop Suitability Analysis**
 Analyzed environmental conditions, including rainfall and temperature, to understand their suitability for different crops.
 
@@ -46,6 +48,7 @@ Analyzed crop distribution across districts to identify regional patterns and su
 Developed an interactive dashboard featuring KPI cards, slicers, charts, and other visualizations to explore agricultural data and support data-driven decisions.
 
 **📈 Key Outcomes**
+
 Improved understanding of crop suitability under different environmental conditions.
 Identified variations in soil nutrient levels across crop categories.
 Explored rainfall and temperature patterns relevant to crop growth.
