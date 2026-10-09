@@ -13,7 +13,7 @@ Compare Nitrogen (N), Phosphorus (P), and Potassium (K) levels across different 
 Evaluate rainfall and temperature patterns to understand their relationship with crop growth.
 Analyze crop distribution across districts to identify regional crop patterns.
 Develop an interactive Power BI dashboard to support agricultural decision-making.
-🛠️ Tools and Technologies
+**🛠️ Tools and Technologies**
 Python: Data cleaning, preprocessing, and exploratory data analysis.
 Power BI: Interactive dashboards, KPI cards, slicers, and data visualizations.
 Pandas: Data manipulation and analysis.
