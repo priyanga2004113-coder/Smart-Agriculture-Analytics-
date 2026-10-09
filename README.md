@@ -16,8 +16,11 @@ Develop an interactive Power BI dashboard to support agricultural decision-makin
 
 **🛠️ Tools and Technologies**
 Python: Data cleaning, preprocessing, and exploratory data analysis.
+
 Power BI: Interactive dashboards, KPI cards, slicers, and data visualizations.
+
 Pandas: Data manipulation and analysis.
+
 Matplotlib / Seaborn: Data visualization (if used in the project).
 
 **📊 Key Analysis**
