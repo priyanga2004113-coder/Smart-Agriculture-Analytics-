@@ -24,7 +24,7 @@ Power BI: Interactive dashboards, KPI cards, slicers, and data visualizations.
 
 Pandas: Data manipulation and analysis.
 
-Matplotlib / Seaborn: Data visualization (if used in the project).
+Matplotlib / Seaborn: Data visualization 
 
 **📊 Key Analysis**
 
